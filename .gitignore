@@ -1,0 +1,54 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+doc/api/
+*.iml
+.idea/
+.vscode/
+*.log
+*.dart.js
+*.info.json
+*.js.deps
+*.js.map
+.DS_Store
+
+# Android
+android/.gradle/
+android/.kotlin/
+android/local.properties
+android/key.properties
+android/gradle/wrapper/gradle-wrapper.jar
+android/app/google-services.json
+**/*.jks
+**/*.keystore
+hs_err_pid*
+replay_pid*
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Secrets.xcconfig
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Runner/GoogleService-Info.plist
+**/xcuserdata/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+config.json
+*.pem
+*.key
+*.p12
+*.mobileprovision
+service-account*.json
+
+# Local data
+*.sql
+*.dump
+*.sqlite
+uploads/

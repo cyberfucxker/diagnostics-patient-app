@@ -1,0 +1,15 @@
+{
+  "APP_NAME": "Diagnostics Patient App",
+  "API_BASE_URL": "https://api.example.com/api/",
+  "STORAGE_BASE_URL": "https://api.example.com/storage/app/public/",
+  "HOST_URL": "https://api.example.com/",
+  "GOOGLE_MAPS_API_KEY": "YOUR_GOOGLE_MAPS_API_KEY",
+  "PAYMENT_PUBLIC_KEY": "",
+  "ANDROID_STORE_URL": "https://play.google.com/store/apps/details?id=com.example.diagnostics_patient",
+  "IOS_STORE_URL": "https://apps.apple.com/app/id0000000000",
+  "SUPPORT_EMAIL": "support@example.com",
+  "DEFAULT_CITY_NAME": "Default City",
+  "DEFAULT_CITY_SLUG": "default-city",
+  "DEFAULT_LAT": 20.5937,
+  "DEFAULT_LNG": 78.9629
+}
